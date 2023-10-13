@@ -15,7 +15,7 @@ ____   ____                 .___.__
 ## Who am I. 
 <h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;This+is+Sebastians+Site&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;This+is+Sebastians+Site&font=Fira%20Code&center=true&width=380&height=30&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </h1>
 <br>
 I am an aspiring Java programmer.
