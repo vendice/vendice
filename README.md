@@ -15,7 +15,7 @@ ____   ____                 .___.__
 ## Who am I. 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+this+is+Sebastians+Site!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+this+is+Sebastians+Site!&center=true&size=60">
   </a>
 </h1>
 I am an aspiring Java programmer.
