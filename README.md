@@ -14,9 +14,8 @@ ____   ____                 .___.__
 
 ## Who am I. 
 <h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;+This+is+Sebastians+Site!&center=true&size=30" alt="nothing">
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </h1>
 <br>
 I am an aspiring Java programmer.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
