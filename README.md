@@ -13,5 +13,5 @@ ____   ____                 .___.__
 </pre>
 
 ## Who am I. 
-<h2><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+this+is+Sebastians+Site!&center=true&size=30"></h2>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+this+is+Sebastians+Site!&center=true&size=30">
 I am an aspiring Java programmer.
