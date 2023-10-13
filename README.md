@@ -13,9 +13,9 @@ ____   ____                 .___.__
 </pre>
 
 ## Who am I. 
-<h1 align="center">
+<h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;+This+is+Sebastians+Site!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;+This+is+Sebastians+Site!&center=true&size=30" alt="nothing">
   </a>
 </h1>
 I am an aspiring Java programmer.
