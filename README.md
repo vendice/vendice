@@ -13,6 +13,6 @@ ____   ____                 .___.__
 </pre>
 
 ## Who am I. 
-Hello this is Sebastians Site. 
+<h2>Hello this is Sebastians Site.</h2> 
 
 I am an aspiring Java programmer.
