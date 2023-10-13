@@ -18,4 +18,5 @@ ____   ____                 .___.__
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;+This+is+Sebastians+Site!&center=true&size=30" alt="nothing">
   </a>
 </h1>
+<br>
 I am an aspiring Java programmer.
