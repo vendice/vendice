@@ -15,4 +15,4 @@ ____   ____                 .___.__
 ## Who am I. 
 Hello this is Sebastians Site. 
 
-I am an aspiring Java programme.
+I am an aspiring Java programmer.
